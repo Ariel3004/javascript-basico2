@@ -16,7 +16,6 @@
             console.log(typeof(pi));
             let soyMillonario = false;
             console.log(typeof(soyMillonario));
-    
             // arreglo o vector o matriz
             let arreglo = [
                 universidad, edad
